@@ -1,0 +1,9 @@
+name tutorial
+max_rounds 100
+count 6
+101 INFANTRY infantry_a 55 100
+205 ENGINEER engineer_a 70 300
+309 HERO hero_a 110 200
+412 INFANTRY infantry_b 40 700
+518 SENTRY sentry_a 95 400
+623 ENGINEER engineer_b 50 50

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/1/Desktop/c++/student_package/build",
+  "command": "C:\\mingw64\\mingw64\\bin\\c++.exe -IC:/Users/1/Desktop/c++/student_package/include -IC:/Users/1/Desktop/c++/student_package/public_judge/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\sentinel_demo.dir\\public_judge\\src\\main.cpp.obj -c C:\\Users\\1\\Desktop\\c++\\student_package\\public_judge\\src\\main.cpp",
+  "file": "C:/Users/1/Desktop/c++/student_package/public_judge/src/main.cpp",
+  "output": "C:/Users/1/Desktop/c++/student_package/build/CMakeFiles/sentinel_demo.dir/public_judge/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/1/Desktop/c++/student_package/build",
+  "command": "C:\\mingw64\\mingw64\\bin\\c++.exe -IC:/Users/1/Desktop/c++/student_package/include -IC:/Users/1/Desktop/c++/student_package/public_judge/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\sentinel_demo.dir\\public_judge\\src\\types.cpp.obj -c C:\\Users\\1\\Desktop\\c++\\student_package\\public_judge\\src\\types.cpp",
+  "file": "C:/Users/1/Desktop/c++/student_package/public_judge/src/types.cpp",
+  "output": "C:/Users/1/Desktop/c++/student_package/build/CMakeFiles/sentinel_demo.dir/public_judge/src/types.cpp.obj"
+},
+{
+  "directory": "C:/Users/1/Desktop/c++/student_package/build",
+  "command": "C:\\mingw64\\mingw64\\bin\\c++.exe -IC:/Users/1/Desktop/c++/student_package/include -IC:/Users/1/Desktop/c++/student_package/public_judge/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\sentinel_demo.dir\\public_judge\\src\\scenario.cpp.obj -c C:\\Users\\1\\Desktop\\c++\\student_package\\public_judge\\src\\scenario.cpp",
+  "file": "C:/Users/1/Desktop/c++/student_package/public_judge/src/scenario.cpp",
+  "output": "C:/Users/1/Desktop/c++/student_package/build/CMakeFiles/sentinel_demo.dir/public_judge/src/scenario.cpp.obj"
+},
+{
+  "directory": "C:/Users/1/Desktop/c++/student_package/build",
+  "command": "C:\\mingw64\\mingw64\\bin\\c++.exe -IC:/Users/1/Desktop/c++/student_package/include -IC:/Users/1/Desktop/c++/student_package/public_judge/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\sentinel_demo.dir\\public_judge\\src\\judge_system.cpp.obj -c C:\\Users\\1\\Desktop\\c++\\student_package\\public_judge\\src\\judge_system.cpp",
+  "file": "C:/Users/1/Desktop/c++/student_package/public_judge/src/judge_system.cpp",
+  "output": "C:/Users/1/Desktop/c++/student_package/build/CMakeFiles/sentinel_demo.dir/public_judge/src/judge_system.cpp.obj"
+},
+{
+  "directory": "C:/Users/1/Desktop/c++/student_package/build",
+  "command": "C:\\mingw64\\mingw64\\bin\\c++.exe -IC:/Users/1/Desktop/c++/student_package/include -IC:/Users/1/Desktop/c++/student_package/public_judge/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\sentinel_demo.dir\\src\\robot_manager.cpp.obj -c C:\\Users\\1\\Desktop\\c++\\student_package\\src\\robot_manager.cpp",
+  "file": "C:/Users/1/Desktop/c++/student_package/src/robot_manager.cpp",
+  "output": "C:/Users/1/Desktop/c++/student_package/build/CMakeFiles/sentinel_demo.dir/src/robot_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/1/Desktop/c++/student_package/build",
+  "command": "C:\\mingw64\\mingw64\\bin\\c++.exe -IC:/Users/1/Desktop/c++/student_package/include -IC:/Users/1/Desktop/c++/student_package/public_judge/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\sentinel_demo.dir\\src\\strategy.cpp.obj -c C:\\Users\\1\\Desktop\\c++\\student_package\\src\\strategy.cpp",
+  "file": "C:/Users/1/Desktop/c++/student_package/src/strategy.cpp",
+  "output": "C:/Users/1/Desktop/c++/student_package/build/CMakeFiles/sentinel_demo.dir/src/strategy.cpp.obj"
+}
+]
